@@ -33,17 +33,17 @@ Cardly is a beautifully designed iOS app that lets users create, manage, and sha
 <img src="Screenshots/Splash.png" alt="Splash" width="300"/>
 
 ### 🧭 Card List
-<img src="Screenshots/CardList" alt="Card List" width="300"/>
+<img src="Screenshots/CardList.png" alt="Card List" width="300"/>
 
 
 ### 📝 Create Card
-<img src="Screenshots/CreateCard" alt="Create Card" width="300"/>
+<img src="Screenshots/CreateCard.png" alt="Create Card" width="300"/>
 
 ### 🧾 Card Preview
-<img src="Screenshots/Preview" alt="Preview" width="300"/>
+<img src="Screenshots/Preview.png" alt="Preview" width="300"/>
 
 ### 📤 QR Code Sharing
-<img src="Screenshots/QRCode" alt="QRCode" width="300"/>
+<img src="Screenshots/QRCode.png" alt="QRCode" width="300"/>
 
 
 ---
